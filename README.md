@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Yassine Elamri
-I'm a web developer and software enthusiast from Canada. I love creating projects that solve real problems.
+I'm a web developer and software enthusiast. I love creating projects that solve real problems and learning new technologies.
 
 <!--
 **Yassine-Elamri34/Yassine-Elamri34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
