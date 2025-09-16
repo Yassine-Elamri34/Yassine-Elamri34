@@ -6,7 +6,9 @@ I'm a web developer and software enthusiast. I love creating projects that solve
 - Python
 - Git & GitHub
 - React, Node.js
-
+## 📫 Contact Me
+- Email: elamriyassin34@gmail.com
+- LinkedIn: [Yassine Elamri](https://www.linkedin.com/in/yassine-elamri-51a95b200/)
 <!--
 **Yassine-Elamri34/Yassine-Elamri34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
