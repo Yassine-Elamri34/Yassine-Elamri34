@@ -96,4 +96,4 @@ I'm open to **Web Developer opportunities** and projects where I can contribute 
 
 🌐 **Portfolio:** [yassineelamri.com](https://yassineelamri.com)
 
-💻 **GitHub:** [Yassine-Elamri34](https://github.com/Yassine-Elamri34)
+
