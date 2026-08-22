@@ -58,6 +58,6 @@ I'm open to **Web Developer opportunities** and projects where I can contribute 
 
 📧 **Email:** [elamriyassin34@gmail.com](mailto:elamriyassin34@gmail.com)
 
-💼 **LinkedIn:** [Yassine Elamri](https://www.linkedin.com/in/yassine-elamri-51a95b200/)
+💼 **LinkedIn:** [Yassine Elamri](https://www.linkedin.com/in/yassine-elamri-51a95b2a1/)
 
 🌐 **Portfolio:** [yassineelamri.com](https://yassineelamri.com)
