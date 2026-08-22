@@ -2,10 +2,17 @@
 # Hi there 👋 I'm Yassine Elamri
 Web Developer focused on building full-stack web applications with React, ASP.NET Core, JavaScript, Node.js, and MySQL. I enjoy turning real business problems into practical, user-friendly solutions.
 ## 🛠 Skills
-- JavaScript, HTML, CSS
-- Python
-- Git & GitHub
-- React, Node.js
+Frontend
+JavaScript · React · Vite · Tailwind CSS · HTML · CSS
+
+Backend
+ASP.NET Core · C# · Node.js · Express.js · PHP · Laravel
+
+Databases
+MySQL · MongoDB
+
+Tools
+Git · GitHub · REST APIs · Postman
 ## 📫 Contact Me
 - Email: elamriyassin34@gmail.com
 - LinkedIn: [Yassine Elamri](https://www.linkedin.com/in/yassine-elamri-51a95b200/)
