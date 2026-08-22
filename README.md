@@ -57,5 +57,7 @@ Adaptable, curious, and always open to learning new technologies and taking on n
 I'm open to **Web Developer opportunities** and projects where I can contribute my development skills and continue building real-world experience.
 
 📧 **Email:** [elamriyassin34@gmail.com](mailto:elamriyassin34@gmail.com)
+
 💼 **LinkedIn:** [Yassine Elamri](https://www.linkedin.com/in/yassine-elamri-51a95b200/)
+
 🌐 **Portfolio:** [yassineelamri.com](https://yassineelamri.com)
