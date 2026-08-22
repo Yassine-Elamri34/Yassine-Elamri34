@@ -45,55 +45,10 @@ Adaptable, curious, and always open to learning new technologies and taking on n
 
 ### 🔧 Fixinit
 
-**Fixinit** is a full-stack web platform designed to connect local businesses with IT technicians for fast and reliable technical support.
+**Fixinit** is a full-stack platform built to introduce a new way for local businesses to connect directly with nearby IT technicians for fast, reliable, on-site support.
 
-Businesses can find technicians based on their needs and location, send service requests, manage their requests, and review technicians after completed services.
-
-Technicians can create professional profiles, manage their availability, receive service requests, and connect with businesses looking for IT support.
-
-### ✨ Key Features
-
-* Business Owner and Technician accounts
-* User registration and authentication
-* Email confirmation
-* Technician profiles
-* Technician availability management
-* Search and filtering by location and rate
-* IT service request management
-* Reviews and ratings
-* Admin management system
-* Responsive user interface
-* REST API integration
-* MySQL database integration
-
-### ⚙️ Built With
-
-**Frontend:** React · Vite · Tailwind CSS · JavaScript
-
-**Backend:** ASP.NET Core Web API · C#
-
-**Database:** MySQL
-
-**Development:** Git · GitHub · REST APIs
-
-🌐 **Live Website:** [fixinit.ca](https://fixinit.ca)
-
-💻 **Source Code:** [github.com/Yassine-Elamri34/Fixinit](https://github.com/Yassine-Elamri34/Fixinit)
-
----
-
-## 💡 What I Work With
-
-I enjoy working on applications that combine:
-
-* Responsive and user-friendly interfaces
-* Full-stack web development
-* REST API development and integration
-* Authentication and user roles
-* Database design and management
-* Real-world business requirements
-* Debugging and problem solving
-* Deployment of web applications
+🌐 Live: fixinit.ca
+💻 Source Code: GitHub
 
 ---
 
