@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Yassine Elamri
-I'm a web developer and software enthusiast. I love creating projects that solve real problems and learning new technologies.
+Web Developer focused on building full-stack web applications with React, ASP.NET Core, JavaScript, Node.js, and MySQL. I enjoy turning real business problems into practical, user-friendly solutions.
 ## 🛠 Skills
 - JavaScript, HTML, CSS
 - Python
