@@ -47,6 +47,7 @@ Adaptable, curious, and always open to learning new technologies and taking on n
 **Fixinit** is a full-stack platform built to introduce a new way for local businesses to connect directly with nearby IT technicians for fast, reliable, on-site support.
 
 🌐 **Live:** [fixinit.ca](https://fixinit.ca/)
+
 💻 **Source Code:** [GitHub](https://github.com/Yassine-Elamri34/Fixinit)
 
 ---
