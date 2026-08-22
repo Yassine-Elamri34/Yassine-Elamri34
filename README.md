@@ -1,12 +1,9 @@
 # Hi 👋 I'm Yassine Elamri
 
-### Web Developer | Full-Stack Development
+Full-Stack Web Developer focused on building modern, scalable, and user-friendly digital solutions.
+I enjoy turning real business needs into reliable web experiences from concept to deployment.
+Adaptable, curious, and always open to learning new technologies and taking on new challenges.
 
-I'm a **Web Developer** focused on building full-stack web applications with **React, ASP.NET Core, JavaScript, Node.js, and MySQL**.
-
-I enjoy turning real business problems into practical, user-friendly web solutions. I have experience working across both frontend and backend development, from building responsive interfaces to creating APIs, managing databases, authentication, and deploying full-stack applications.
-
-I'm currently looking for opportunities where I can contribute as a **Web Developer** while continuing to grow my skills and work on meaningful real-world projects.
 
 ---
 
